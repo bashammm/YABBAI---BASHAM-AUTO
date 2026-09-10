@@ -1,0 +1,6 @@
+{
+  "name": "YabbAI-Forge",
+  "description": "An open-source product foundry. We fork, merge, and forge tools for every niche in the universe — recreation, gaming, creators, science, commerce, trades — then ship them under your name with a live Mission Control and human-approved releases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
